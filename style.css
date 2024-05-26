@@ -1,0 +1,12 @@
+div{
+    margin: 30px;
+    i{
+        font-size: 30px;
+    }
+}
+.night{
+    background-color: black;
+    i{
+         color: white;
+    }
+}
